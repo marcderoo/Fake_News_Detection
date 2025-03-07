@@ -1,0 +1,17 @@
+pandas
+numpy
+scikit-learn
+nltk
+gensim
+torch
+transformers
+matplotlib
+seaborn
+
+
+# pip install -r requirements.txt
+
+# python -m venv venv
+# source venv/bin/activate  # Sur Linux/Mac
+# venv\Scripts\activate  # Sur Windows
+# pip install -r requirements.txt
