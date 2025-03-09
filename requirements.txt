@@ -7,7 +7,8 @@ torch
 transformers
 matplotlib
 seaborn
-
+wordcloud
+spacy
 
 # pip install -r requirements.txt
 
