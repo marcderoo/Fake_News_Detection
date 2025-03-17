@@ -2,10 +2,10 @@
 
 -------------------------------------------------------------------
 ## To do
-Compute Bert performances on ISOT
-Compute all performances on FoR
-Cross performances
-Update the mini_paper
+- Compute Bert performances on ISOT
+- Compute all performances on FoR
+- Cross performances
+- Update the mini_paper
 
 -------------------------------------------------------------------
 
