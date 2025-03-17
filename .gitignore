@@ -1,0 +1,7 @@
+*.pkl
+
+*.kv
+*.npy
+
+data/
+*.csv
