@@ -1,5 +1,14 @@
 # Fake News Detection
 
+-------------------------------------------------------------------
+## To do
+Compute Bert performances on ISOT
+Compute all performances on FoR
+Cross performances
+Update the mini_paper
+
+-------------------------------------------------------------------
+
 This project replicates and discusses the findings from the paper "Exploring the Generalisability of Fake News Detection Models" by Nathaniel Hoy and Theodora Koulouri (2022). It evaluates the generalization of six traditional machine learning models across different preprocessing techniques and datasets.
 
 ## Rules
@@ -53,7 +62,6 @@ Models trained on ISOT achieved near-perfect accuracy but showed performance dro
 1. Clone this repository:
     ```bash
     git clone https://github.com/marcderoo/fake-news-detection.git
-    cd fake-news-detection
     ```
 2. Install dependencies:
     ```bash
