@@ -2,6 +2,3 @@
 
 *.kv
 *.npy
-
-data/
-*.csv
