@@ -3,7 +3,7 @@
 -------------------------------------------------------------------
 ## To do
 - Compute Bert performances on ISOT
-- Compute all performances on FoR
+- Compute performances with "linguistic cues" preprocess on ISOT and FoR
 - Cross performances
 - Update the mini_paper
 
