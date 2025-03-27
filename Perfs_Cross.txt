@@ -55,8 +55,12 @@ Accuracy du modèle random_forest : 0.7001870907390084
 
 LC
 ISOT -> FoR
-
-
+Accuracy du modèle svm : trop long
+Accuracy du modèle adaboost : 0.5329123914759274
+Accuracy du modèle gradient_boosting : 0.551223362273086
+Accuracy du modèle logistic_regression : 0.5857932123125493
+Accuracy du modèle neural_network : 0.4898184688239937
+Accuracy du modèle random_forest : 0.5452249408050514
 
 
 
