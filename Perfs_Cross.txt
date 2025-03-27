@@ -1,0 +1,66 @@
+Perfs Cross Fake News Detection
+
+BOW
+ISOT -> FoR
+Accuracy du modèle svm : 0.5120757695343331
+Accuracy du modèle adaboost : 0.5019731649565904
+Accuracy du modèle gradient_boosting : 0.5007103393843725
+Accuracy du modèle logistic_regression : 0.5131807419100237
+Accuracy du modèle neural_network : 0.4988161010260458
+Accuracy du modèle random_forest : 0.5011838989739542
+
+FoR -> ISOT
+Accuracy du modèle svm : 0.6553744042050871
+Accuracy du modèle adaboost : 0.5337431511425899
+Accuracy du modèle gradient_boosting : 0.521069980845472
+Accuracy du modèle logistic_regression : 0.5898703728451156
+Accuracy du modèle neural_network : 0.6433025969976391
+Accuracy du modèle random_forest : 0.5120495345004232
+
+
+TF-IDF
+ISOT -> FoR
+Accuracy du modèle svm : 0.5035516969218626
+Accuracy du modèle adaboost : 0.5022888713496448
+Accuracy du modèle gradient_boosting : 0.5014996053670087
+Accuracy du modèle logistic_regression : 0.4983425414364641
+Accuracy du modèle neural_network : 0.5149171270718232
+Accuracy du modèle random_forest : 0.5013417521704815
+
+FoR -> ISOT
+Accuracy du modèle svm : 0.5327186066194485
+Accuracy du modèle adaboost : 0.5314267896120094
+Accuracy du modèle gradient_boosting : 0.5324958795492004
+Accuracy du modèle logistic_regression : 0.5321172435297786
+Accuracy du modèle neural_network : 0.5122722615706713
+Accuracy du modèle random_forest : 0.5737894783732015
+
+W2V
+ISOT -> FoR
+Accuracy du modèle svm : 0.6516179952644041
+Accuracy du modèle adaboost : 0.5837411207576954
+Accuracy du modèle gradient_boosting : 0.6029992107340174
+Accuracy du modèle logistic_regression : 0.6219415943172849
+Accuracy du modèle neural_network : 0.6580899763220205
+Accuracy du modèle random_forest : 0.6077348066298343
+
+FoR -> ISOT
+Accuracy du modèle svm : 0.7117911710989354
+Accuracy du modèle adaboost : 0.6982048198138001
+Accuracy du modèle gradient_boosting : 0.7262684306650631
+Accuracy du modèle logistic_regression : 0.7190075281749744
+Accuracy du modèle neural_network : 0.6866675575749477
+Accuracy du modèle random_forest : 0.7001870907390084
+
+
+LC
+ISOT -> FoR
+
+
+
+
+
+
+
+
+
