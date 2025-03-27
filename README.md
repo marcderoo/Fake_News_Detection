@@ -2,9 +2,8 @@
 
 -------------------------------------------------------------------
 ## To do
-- Compute Bert performances on ISOT
-- Compute performances with "linguistic cues" preprocess on ISOT and FoR
-- Cross performances
+- Compute "linguistic cues" performances on FoR
+- Cross performances "BERT" (GPU)
 - Update the mini_paper
 
 -------------------------------------------------------------------
@@ -26,7 +25,7 @@ This project replicates and discusses the findings from the paper "Exploring the
 
 ## Objective
 
-The goal is to evaluate how well six machine learning models (Logistic Regression, SVM, Random Forest, Gradient Boosting, AdaBoost, Neural Network) generalize to unseen data. We compare five preprocessing methods: Bag-of-Words (BoW), TF-IDF, Word2Vec, and BERT.
+The goal is to evaluate how well six machine learning models (Logistic Regression, SVM, Random Forest, Gradient Boosting, AdaBoost, Neural Network) generalize to unseen data. We compare five preprocessing methods: Bag-of-Words (BoW), TF-IDF, Word2Vec, BERT and Liguistic Cues.
 
 ## Datasets
 
@@ -45,17 +44,17 @@ The goal is to evaluate how well six machine learning models (Logistic Regressio
 ## Preprocessing Methods
 
 - **BoW and TF-IDF**: Full text normalization.
-- **Word2Vec and BERT**: Lighter preprocessing for embedding-based models.
+- **Word2Vec, BERT & LC**: Lighter preprocessing for embedding-based models.
 
 ## Experiment
 
-1. Train the models on the ISOT dataset.
-2. Test their generalization on the FoR dataset.
+1. Train & test the models on the ISOT and FoR datasets.
+2. Test their generalization by doing a cross-evaluation.
 3. Compare model performance using accuracy, precision, recall, F1-score, and AUC.
 
 ## Results
 
-Models trained on ISOT achieved near-perfect accuracy but showed performance drops on the external FoR dataset, highlighting challenges in generalization.
+Models trained on ISOT achieved near-perfect accuracy but showed performance drops on the external FoR dataset (and vice-verca), highlighting challenges in generalization.
 
 ## Installation
 
