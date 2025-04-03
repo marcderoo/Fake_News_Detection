@@ -53,6 +53,25 @@ Accuracy du modèle neural_network : 0.6866675575749477
 Accuracy du modèle random_forest : 0.7001870907390084
 
 
+BERT
+ISOT -> FoR
+Accuracy du modèle adaboost : 0.632991318074191
+Accuracy du modèle gradient_boosting : 0.6650355169692186
+Accuracy du modèle logistic_regression : 0.6513022888713497
+Accuracy du modèle neural_network : 0.6396211523283346
+Accuracy du modèle random_forest : 0.6481452249408051
+Accuracy du modèle svm : 0.6429360694554065
+
+
+FoR -> ISOT
+Accuracy du modèle adaboost : 0.6732593879460109
+Accuracy du modèle gradient_boosting : 0.6617889438282328
+Accuracy du modèle logistic_regression : 0.6791839280146109
+Accuracy du modèle neural_network : 0.6728807519265891
+Accuracy du modèle random_forest : 0.6569112209897991
+Accuracy du modèle svm : 0.6577353111497172
+
+
 LC
 ISOT -> FoR
 Accuracy du modèle svm : 0.5179163378058406
